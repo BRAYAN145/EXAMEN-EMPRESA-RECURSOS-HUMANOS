@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerenciasPoliformismo", "HerenciasPoliformismo\HerenciasPoliformismo.csproj", "{0D9163A4-CA7B-4CBF-B5C0-981ACB569E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases1", "Clases1\Clases1.csproj", "{1D04E6B2-5F07-44E3-9EDF-BAC57D5AA033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D9163A4-CA7B-4CBF-B5C0-981ACB569E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9163A4-CA7B-4CBF-B5C0-981ACB569E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9163A4-CA7B-4CBF-B5C0-981ACB569E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9163A4-CA7B-4CBF-B5C0-981ACB569E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D04E6B2-5F07-44E3-9EDF-BAC57D5AA033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D04E6B2-5F07-44E3-9EDF-BAC57D5AA033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D04E6B2-5F07-44E3-9EDF-BAC57D5AA033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D04E6B2-5F07-44E3-9EDF-BAC57D5AA033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6339274-6B0C-44D4-81CE-022F3F3DD961}
+	EndGlobalSection
+EndGlobal
